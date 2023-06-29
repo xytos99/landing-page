@@ -18,7 +18,7 @@ ul li {
     list-style-type: none;
 }
 
-ul li a, ul li, .hero-subtext {
+ul li a, .hero-subtext {
     color: #e5e7eb;
     font-size: 18px;
 }
