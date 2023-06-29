@@ -165,11 +165,35 @@ button {
 /* section-4 layout */
 
 .section-4 {
-    height: 220px;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.section-4 .container {
+    padding: 30px 60px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 700px;
+    border-radius: 6px;
+}
+
+.call-to-action {
+    font-size: 24px;
+    font-weight: 700;
+}
+
+.section-4 button {
+    margin: 0;
 }
 
 /* footer layout */
 
 .footer {
     height: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
