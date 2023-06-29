@@ -33,3 +33,8 @@ ul li a, ul li, .hero-subtext {
     font-weight: 800;
     color: #f9faf8;
 }
+
+button, .section-4 .container {
+    background-color: #3882f6;
+    color: #fff;
+}
