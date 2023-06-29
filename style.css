@@ -142,3 +142,16 @@ button {
 .img-text {
     text-align: center;
 }
+
+/* section-3 layout */
+
+.section-3 {
+    padding: 50px 90px;
+}
+
+.thor {
+    font-weight: 800;
+    text-align: right;
+    padding-right: 50px;
+    font-size: 20px;
+}
