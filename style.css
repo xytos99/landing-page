@@ -57,3 +57,40 @@ button, .section-4 .container {
 .footer {
     color: #fff;
 }
+
+.section-1 {
+    display: flex;
+    flex-direction: column;
+    padding: 12px 100px 35px;
+}
+
+.header {
+    display: flex;
+    align-items: center;
+    margin-bottom: 65px;
+}
+
+ul {
+    display: flex;
+    margin: 0;
+    padding: 0;
+    gap: 20px;
+    margin-left: auto;
+}
+
+.hero-content {
+    display: flex;
+}
+
+.non-img {
+    flex: 1;
+}
+
+.placeholder {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: grey;
+    color: #e5e7eb;
+}
