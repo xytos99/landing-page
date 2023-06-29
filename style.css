@@ -65,6 +65,7 @@ button, .section-4 .container {
     display: flex;
     flex-direction: column;
     padding: 12px 100px 35px;
+    height: 350px;
 }
 
 .header {
@@ -123,6 +124,7 @@ button {
     justify-content: center;
     gap: 48px;
     margin: 24px;
+    height: 300px;
 }
 
 .img-item {
@@ -147,6 +149,7 @@ button {
 
 .section-3 {
     padding: 50px 90px;
+    height: 300px;
 }
 
 .thor {
@@ -154,4 +157,16 @@ button {
     text-align: right;
     padding-right: 50px;
     font-size: 20px;
+}
+
+/* section-4 layout */
+
+.section-4 {
+    height: 220px;
+}
+
+/* footer layout */
+
+.footer {
+    height: 80px;
 }
