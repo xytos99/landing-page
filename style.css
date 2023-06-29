@@ -5,3 +5,16 @@
 .section-3 {
     background-color: #e5e7eb;
 }
+
+ul li a {
+    text-decoration: none;
+}
+
+ul li {
+    list-style-type: none;
+}
+
+ul li a, ul li, .hero-subtext {
+    color: #e5e7eb;
+    font-size: 18px;
+}
