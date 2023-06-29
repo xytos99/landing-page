@@ -59,6 +59,8 @@ button, .section-4 .container {
     color: #fff;
 }
 
+/* section-1 layout */
+
 .section-1 {
     display: flex;
     flex-direction: column;
@@ -112,4 +114,31 @@ button {
 .info {
     text-align: center;
     margin: 24px;
+}
+
+/* section-2 layout */
+
+.img-container {
+    display: flex;
+    justify-content: center;
+    gap: 48px;
+    margin: 24px;
+}
+
+.img-item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 185px;
+}
+
+.img-holder {
+    border: 4px solid #3882f6;
+    border-radius: 16px;
+    height: 180px;
+    width: 180px;
+}
+
+.img-text {
+    text-align: center;
 }
