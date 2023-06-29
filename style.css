@@ -150,6 +150,9 @@ button {
 .section-3 {
     padding: 50px 90px;
     height: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
 }
 
 .thor {
