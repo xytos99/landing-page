@@ -27,6 +27,7 @@ ul li a, .hero-subtext {
 .header-logo {
     font-size: 24px;
     color: #f9faf8;
+    font-weight: 800;
 }
 
 .hero-text {
@@ -106,4 +107,9 @@ button {
 
 .section-4 button {
     border: 2px solid white;
+}
+
+.info {
+    text-align: center;
+    margin: 24px;
 }
