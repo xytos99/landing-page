@@ -1,3 +1,7 @@
+body {
+    font-family: Roboto, sans-serif;
+}
+
 .section-1, .footer {
     background-color: #1f2947;
 }
@@ -18,3 +22,4 @@ ul li a, ul li, .hero-subtext {
     color: #e5e7eb;
     font-size: 18px;
 }
+
