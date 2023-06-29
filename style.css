@@ -38,3 +38,8 @@ button, .section-4 .container {
     background-color: #3882f6;
     color: #fff;
 }
+
+.info, .quote {
+    font-size: 36px;
+    color: #1f2937;
+}
