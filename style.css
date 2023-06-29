@@ -80,6 +80,7 @@ ul {
 
 .hero-content {
     display: flex;
+    gap: 16px;
 }
 
 .non-img {
